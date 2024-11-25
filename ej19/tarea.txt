@@ -1,0 +1,3 @@
+el ejercicio 19 se debera ver la informacion de un archivo .txt
+1. desplegar en pantalla el archivo .txt
+2. jsonplaceholder(cambiar de un archivo .json a .txt y viceversa)

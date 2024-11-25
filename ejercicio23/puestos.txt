@@ -1,0 +1,5 @@
+1, Secretaria, 2000
+2, Conductor, 3000
+3, Guardia, 3500
+4, Ayudante, 2300
+5, Administrativo, 2800
